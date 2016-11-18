@@ -1,4 +1,9 @@
 learn git
+add master
 git is a repority
 add content on dev
+<<<<<<< HEAD
 master
+=======
+dev
+>>>>>>> dev
