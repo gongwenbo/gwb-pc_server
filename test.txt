@@ -1,5 +1,5 @@
 learn git
 add master
 git is a repority
-add content on dev
+content on dev
 
