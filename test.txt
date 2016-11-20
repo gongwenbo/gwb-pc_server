@@ -2,3 +2,4 @@ learn git
 git is a repority
 add dev
 modify bug 
+add bug
