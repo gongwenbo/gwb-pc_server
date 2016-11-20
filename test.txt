@@ -3,3 +3,4 @@ git is a repority
 add dev
 modify bug 
 add bug
+pull on master but push on bug
