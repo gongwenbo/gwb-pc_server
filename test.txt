@@ -1,4 +1,10 @@
 learn git
 add master
 git is a repority
+<<<<<<< HEAD
 
+=======
+add dev
+modify bug 
+add bug
+>>>>>>> 9454a702d44ac5d329b23b80af3a666af760f895
